@@ -12,7 +12,7 @@ Este é um projeto no qual criei uma calculadora utilizando JavaScript, html e c
 
 - Realizar cálculos
 
-## 👾 Tecnologias utilizadas 
+## Tecnologias utilizadas 
 <div align="center"> 
 <img align="left" alt="Node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -22,7 +22,7 @@ Este é um projeto no qual criei uma calculadora utilizando JavaScript, html e c
 </div>
 <br/><br/>
 
-## ⏳ Inicialização
+## Inicialização
 
 Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as tecnologias citadas anteriormente. O funcionamento do programa conta com o navegador para rodar o código HTML, seus estilos e permitir a manipulação do DOM com o JavaScript.
 
