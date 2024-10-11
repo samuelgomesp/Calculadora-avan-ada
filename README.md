@@ -24,7 +24,7 @@ Este é um projeto no qual criei uma calculadora utilizando JavaScript, html e c
 
 ## Inicialização
 
-Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as tecnologias citadas anteriormente. O funcionamento do programa conta com o navegador para rodar o código HTML, seus estilos e permitir a manipulação do DOM com o JavaScript.
+Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as tecnologias citadas anteriormente. O funcionamento do programa conta com o navegador para "criar" uma página com o código HTML e seus estilos permitindo assim a manipulação do DOM com o JavaScript.
 
 Para instalação do VSCode visite o site https://code.visualstudio.com/
 
